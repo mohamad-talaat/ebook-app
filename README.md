@@ -1,6 +1,4 @@
-# 📖📖 Flutter eBook App [![Codemagic build status]
-
-## 💻 Requirements
+#  Flutter eBook App 
 
 
 | Light                             | Dark                              |
